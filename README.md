@@ -1,1 +1,2 @@
-# Regressao_Linear_Ames_Housing_Ml
+# Regressao Linear Simples utilizando o dataset Ames Housing
+#### Aplicações de um modelo simples de Aprendizado supervisionado utilizando a biblioteca sckit-learn.
